@@ -1,7 +1,3 @@
-Based on your notebook titled **ML_Marketing_Compaign.ipynb**, here's a well-structured `README.md` draft for your GitHub repository:
-
----
-
 ## 📊 ML Marketing Campaign Analysis
 
 This project applies machine learning techniques to analyze and predict customer responses to marketing campaigns using a cleaned dataset. It demonstrates end-to-end workflow including data preprocessing, feature engineering, model training, and evaluation.
